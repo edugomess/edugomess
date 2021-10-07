@@ -1,5 +1,5 @@
 
-## 👋 Hi! I'm Eduardo
+## 👋 Hi, I'm Eduardo!
  <div>
   <a href="https://github.com/edugomess">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=edugomess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
