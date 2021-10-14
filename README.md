@@ -20,8 +20,7 @@
   <img align="center" alt="Edu-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Edu-Vscode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
  <img align="center" alt="Edu-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
- <img align="center" alt="Edu-Macos" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/macos/macos-original.svg">
-</div>
+ </div>
  
 ##
 
