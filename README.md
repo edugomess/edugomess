@@ -3,6 +3,7 @@
 
 ## 👋 Hi, I'm Eduardo!
  <div>
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
   <a href="https://github.com/edugomess">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=edugomess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edugomess&layout=compact&langs_count=7&theme=dark"/>
@@ -38,6 +39,6 @@
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
+  
  
 </div>
