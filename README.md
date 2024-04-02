@@ -37,5 +37,7 @@
  ##
   
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
+   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
  
 </div>
