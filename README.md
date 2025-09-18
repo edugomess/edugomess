@@ -27,11 +27,16 @@
   <img align="center" alt="Edu-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Edu-Jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
   <img align="center" alt="Edu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
- <img align="center" alt="Edu-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
- <img align="center" alt="Edu-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
- <img align="center" alt="Edu-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
- <img align="center" alt="Edu-OpenShift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openshift/openshift-original.svg">
+  <img align="center" alt="Edu-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+  <img align="center" alt="Edu-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="Edu-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Edu-OpenShift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openshift/openshift-original.svg">
+  <img align="center" alt="Edu-AWS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Edu-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img align="center" alt="Edu-JBoss" height="30" width="40" src="https://design.jboss.org/wildfly/logo/final/wildfly_logomark.svg">
 </div>
+
 
 
  
