@@ -29,6 +29,7 @@
   <img align="center" alt="Edu-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  <img align="center" alt="Edu-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
  <img align="center" alt="Edu-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+ <img align="center" alt="Edu-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
 </div>
 
 
