@@ -1,7 +1,7 @@
 
 
 
-## 👋 Hi, I'm Eduardo!
+## 👋 Hi, I'm David Eduardo!
  <div>
   
   <a href="https://github.com/edugomess">
