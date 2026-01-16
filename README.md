@@ -33,6 +33,8 @@
   <img align="center" alt="Edu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Edu-Apache" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
   <img align="center" alt="Edu-JBoss" height="30" width="40" src="https://design.jboss.org/wildfly/logo/final/wildfly_logomark.svg">
+
+ <img align="center" alt="Edu-GCP" height="30" width="40" src="https://raw.gcp.com/gcp/logo/final/gcp_logomark.svg">
 </div>
 
 
