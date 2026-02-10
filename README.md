@@ -1,10 +1,8 @@
 
 
 
-## 👋 Hi, I'm David Eduardo!
+ 👋 Hi, I'm David Eduardo!
 
-
-![Uploading header_.png…]()
 
  <div>
   
