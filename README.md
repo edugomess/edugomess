@@ -3,7 +3,8 @@
 
 ## 👋 Hi, I'm David Eduardo!
 
-![Uploading image.png…]()
+
+![Uploading header_.png…]()
 
  <div>
   
