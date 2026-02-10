@@ -2,6 +2,9 @@
 
 
 ## 👋 Hi, I'm David Eduardo!
+
+![Uploading image.png…]()
+
  <div>
   
   <a href="https://github.com/edugomess">
