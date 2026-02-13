@@ -61,3 +61,36 @@
    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
  
 </div>
+
+
+
+
+  <p style="max-width: 900px; line-height: 1.6; margin-top: 12px;">
+    <strong>Foco atual:</strong> ASP.NET Core (Web API), C#, Angular (TypeScript), integrações HTTP, autenticação,
+    manutenção de sistemas legados, e SQL Server (procedures, regras e performance).
+  </p>
+</div>
+
+<hr />
+
+<div align="center">
+  <h2>GitHub</h2>
+
+  <a href="https://github.com/Becero?tab=repositories">
+    <img
+      src="https://github-readme-stats-alpha-ashen.vercel.app/api/top-langs/?username=edugomess&langs_count=10&layout=compact&theme=algolia"
+      alt="Linguagens mais utilizadas"
+    />
+  </a>
+
+  <br /><br />
+
+  <a href="https://github.com/edugomess?tab=repositories">
+    <img
+      src="https://github-readme-stats-alpha-ashen.vercel.app/api?username=edugomess&count_private=true&show_icons=true&hide=issues&theme=algolia"
+      alt="Status do GitHub"
+    />
+  </a>
+</div>
+
+<hr />
